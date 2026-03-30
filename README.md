@@ -1,13 +1,5 @@
 # Hi there, I'm Yaksh Patidar 👋
 
-I'm a passionate developer who loves to explore new technologies and push the boundaries of what's possible in the tech world.
-
-## 🚀 About Me
-- 🔭 I’m currently working on building innovative applications.
-- 🌱 I’m currently learning various programming languages and frameworks.
-- 👯 I’m looking to collaborate on exciting projects.
-- 💬 Ask me about web development and software engineering!
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin) | [Twitter](https://twitter.com/your-twitter)
 
 ## 🛠️ Technologies & Tools
 - Languages: JavaScript, Python, Java
