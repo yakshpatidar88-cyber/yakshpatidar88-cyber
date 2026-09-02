@@ -2,9 +2,12 @@
 
 
 ## 🛠️ Technologies & Tools
-- Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, AWS
+
+- • Languages: Java, JavaScript, Python, SQL, HTML5, CSS3
+- • Frameworks: React.js, Next.js, Node.js, Express.js
+- • Databases: MongoDB, MySQL, Redis
+- • Tools: Git, GitHub Actions, Docker, Postman, Jest, Linux / Terminal
+- • Methodologies: Object-Oriented Programming, Responsive Web Design, REST API Design, Agile / Scrum, Test-Driven Development, Retrieval-Augmented Generation
 
 ## 🌟 Projects
 - [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
