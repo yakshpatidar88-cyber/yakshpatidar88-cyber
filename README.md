@@ -1,24 +1,36 @@
-# Hi there, I'm Yaksh Patidar 👋
+# Hi, I'm Yaksh Patidar 👋
+**Software Development Engineer (SDE) & Full-Stack Developer**  
+B.Tech in Computer Science & Engineering (2023–2027) | Oriental Institute of Science and Technology, Bhopal
 
+🌐 [Live Portfolio](https://portfolio-rock-9a93.vercel.app) • 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN_SLUG) • ✉️ [yakshpatidar88@gmail.com](mailto:yakshpatidar88@gmail.com)
 
-## 🛠️ Technologies & Tools
+---
 
-- • Languages: Java, JavaScript, Python, SQL, HTML5, CSS3
-- • Frameworks: React.js, Next.js, Node.js, Express.js
-- • Databases: MongoDB, MySQL, Redis
-- • Tools: Git, GitHub Actions, Docker, Postman, Jest, Linux / Terminal
-- • Methodologies: Object-Oriented Programming, Responsive Web Design, REST API Design, Agile / Scrum, Test-Driven Development, Retrieval-Augmented Generation
+### 🛠️ Core Technologies
+- **Languages:** Java (Java 21), Python, JavaScript, TypeScript, SQL
+- **Backend & Distributed Systems:** Spring Boot 3, FastAPI, Node.js, Express.js, REST APIs, WebSockets
+- **Databases & Caching:** PostgreSQL, MySQL, Redis, MongoDB, ChromaDB (Vector DB)
+- **Frontend & UI:** React.js, Next.js, Tailwind CSS, Chart.js
+- **DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions, Linux, Postman
 
-## 🌟 Projects
-- [Project 1](https://github.com/yourusername/project1): A brief description of Project 1.
-- [Project 2](https://github.com/yourusername/project2): A brief description of Project 2.
+---
 
-## 🤝 Let's Connect!
-I am always open to discussing new projects, improving my skills, and collaborating with other developers.
+### 🚀 Featured Engineering Projects
 
-Feel free to reach out to me!
-# 💫 About Me:
-I'm currently working on building scalable web applications and improving my problem - solving skill in data structures and algorithms<br>I'm looking to collaborate an open source projects and innovative software ideas<br>I'm looking for help with system design, backend optimization, and real- world projects and architecture<br>I'm am currently learning advanced Java, backend development, and cloud technologies<br>
+#### ⚡ [GridOps - Renewable Energy Asset Telemetry Platform](https://github.com/yakshpatidar88-cyber/GridOps)
+- Ingests high-frequency time-series telemetry with 80% false alarm reduction using PV baseline mathematical models.
+- **Tech:** Java 21, Spring Boot 3, FastAPI, PostgreSQL, Redis, React 18, Docker.
+
+#### 🔄 [OpsFlow - Incident Response & Operations Workflow Platform](https://github.com/yakshpatidar88-cyber/opsflow)
+- Distributed operational workflow orchestrator with real-time incident lifecycle management and automated triage.
+- **Tech:** Java, Spring Boot, React, Docker Compose, PostgreSQL.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yakshpatidar88-cyber&show_icons=true&theme=tokyonight" alt="Yaksh's GitHub Stats" />
+</p>
 
 
 ## 🌐 Socials:
