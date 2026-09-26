@@ -17,7 +17,7 @@ B.Tech in Computer Science & Engineering (2023–2027) | Oriental Institute of S
 
 ### 🚀 Featured Engineering Projects
 
-#### ⚡ [ - Renewable Energy Asset Telemetry Platform](https://github.com/yakshpatidar88-cyber/GridOps)
+#### ⚡ [SolarTrace - Renewable Energy Asset Telemetry Platform](https://github.com/yakshpatidar88-cyber/GridOps)
 - Ingests high-frequency time-series telemetry with 80% false alarm reduction using PV baseline mathematical models.
 - **Tech:** Java 21, Spring Boot 3, FastAPI, PostgreSQL, Redis, React 18, Docker.
 
