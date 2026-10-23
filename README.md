@@ -11,7 +11,7 @@ B.Tech in Computer Science & Engineering (2023–2027) | Oriental Institute of S
 - **Backend & Distributed Systems:** Spring Boot 3, FastAPI, Node.js, Express.js, REST APIs, WebSockets
 - **Databases & Caching:** PostgreSQL, MySQL, Redis, MongoDB, ChromaDB (Vector DB)
 - **Frontend & UI:** React.js, Next.js, Tailwind CSS, Chart.js
-- **DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions, Linux, Postman
+- **DevOps & Tools:** Docker, Docker Compose, Git, GitHub Actions, Linux, Postman .
 
 ---
 
